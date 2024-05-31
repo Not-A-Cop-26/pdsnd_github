@@ -10,7 +10,7 @@ Replace the Project Title. Udacity Git Project
 Describe what your project is about and what it does. Git project to practice commands and apply learned concepts in git and github. 
 
 ### Files used
-Include the files used
+Include the files used. Using the `bikeshare.py` file in this priject
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
