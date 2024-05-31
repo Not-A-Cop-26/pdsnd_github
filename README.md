@@ -4,7 +4,7 @@
 Include the date you created this project and README file. Date Created 5/31/24
 
 ### Project Title
-Replace the Project Title
+Replace the Project Title Udacity Git Project
 
 ### Description
 Describe what your project is about and what it does
